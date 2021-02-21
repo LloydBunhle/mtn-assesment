@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.css");
+
+.card{
+    border: unset !important;
+    border-radius:  unset !important;
+    height: 284px !important;
+  width: 216px !important;
+}
+.owl-carousel .owl-stage-outer {
+    height: 30rem !important;
+}
+.owl-theme .owl-nav [class*=owl-] {
+     color: unset !important;
+     font-size: 40px;
+   background: unset !important;
+}
+
+  .mt-4 {
+    margin-top: 5.5rem!important;
+
+}
